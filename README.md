@@ -1,1 +1,1 @@
-# StAr1e-AI-meme-generator
+# AI-meme-generator
