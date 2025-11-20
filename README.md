@@ -54,7 +54,7 @@ We welcome contributions! To contribute:
 2. Create a feature branch.
 3. Implement your changes and test thoroughly.
 4. Submit a pull request for review.
-5. 
+
 ---
 Happy Meme-Making! 🎭🚀
 
