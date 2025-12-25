@@ -1,6 +1,6 @@
 # AI-Powered Meme Generator
 
-An AI-powered meme generator built using TypeScript, designed to create memes dynamically with AI-driven text suggestions and advanced image processing capabilities.
+An AI-powered meme generator built using TypeScript designed to create memes dynamically with AI-driven text suggestions and advanced image processing capabilities.
 
 ## 🚀 Features
 - **AI-Generated Captions**: Generate witty and relevant meme captions using AI.
