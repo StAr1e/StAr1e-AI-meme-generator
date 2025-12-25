@@ -116,3 +116,4 @@ async function generateFallbackMeme(template: string, topText: string, bottomTex
 }
 
 
+console.log("Co-authored-by: ZeroD0y <139201314+ZeroD0y@users.noreply.github.com>")
